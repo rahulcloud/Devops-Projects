@@ -114,5 +114,3 @@ SonarQube application uses port 9000. access SonarQube from browser
 1. Check whether you enabled port 9000 in EC2 instance security group
 2. Check whether you enabled EC2 instance IP range in RDS security group
 
-### Next Step
-- [x] [Integrate SonarQube with Jenkins](https://www.youtube.com/watch?v=k-3krTRuAFA)
